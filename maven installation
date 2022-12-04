@@ -1,0 +1,5 @@
+create an aws account in the web
+create a security group
+launch a new instance by setting your inbound rules
+select you t2 medium tier 
+launch an instance preferrably by the name maven
